@@ -1,0 +1,20 @@
+{
+  "name": "toDo",
+  "homepage": "https://github.com/yuki332/toDo",
+  "authors": [
+    "Yuki Arai <sk80332@gmail.com>"
+  ],
+  "description": "for the DGM3780 final",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
